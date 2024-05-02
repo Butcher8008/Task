@@ -1,0 +1,42 @@
+{
+    "images1":[
+        "profile_image1.jpg",
+        "profile_image2.jpg",
+        "profile_image3.jpg",
+        "profile_image4.jpg",
+        "profile_image5.jpg",
+        "profile_image6.jpg"
+    ],
+    "names1":[
+        "Abbasi Muhammad Saad",
+        "Adnan Chatta Representative",
+        "Faisal Muhammad",
+        "Khokhar Muhammad Hannan",
+        "Khan Waleed Salah Udin",
+        "Muhammad Osama Nadeem"
+    ],
+    "designation1":[
+        "Group Supervisor & Incharge",
+        "Group Supervisor & Incharge",
+        "Group Supervisor & Incharge",
+        "Group Supervisor & Incharge",
+        "Group Supervisor & Incharge",
+        "Group Supervisor & Incharge"
+    ],
+    "email1":[
+        "saad@qualitex-trading.co.jp",
+        "saad@qualitex-trading.co.jp",
+        "saad@qualitex-trading.co.jp",
+        "saad@qualitex-trading.co.jp",
+        "saad@qualitex-trading.co.jp",
+        "saad@qualitex-trading.co.jp"
+    ],
+    "Phone1":[
+        "81-70-1412-2107",
+        "81-70-1412-2107",
+        "81-70-1412-2107",
+        "81-70-1412-2107",
+        "81-70-1412-2107",
+        "81-70-1412-2107"
+    ]
+}
